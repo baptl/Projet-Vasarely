@@ -1,4 +1,4 @@
-# Projet-Vasarely
+# projet-vasarely
 
 <p align="justify">Exercice de programmation fonctionnelle en Python, réalisé dans le cadre du MOOC <a href="https://www.fun-mooc.fr/courses/course-v1:ulb+44013+session01/about">"Apprendre à coder avec Python"</a> proposé par la plateforme France Université Numérique en partenariat avec l'Université de La Réunion et avec l'Université Libre de Bruxelles.</p>
 
